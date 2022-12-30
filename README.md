@@ -1,4 +1,4 @@
-# nestjs-postgres
+# NestJs-postgres
 
 This repo include application to Create and Read date on postgres db.
 
